@@ -66,6 +66,9 @@
 
           <h4>AWS CodeDeploy</h4>
           <p>Maecenas sed diam eget risus varius blandit sit amet non magna.</p>
+          
+          <h4>AWS Automated Testing</h4>
+          <p>Sed ut luctus nibh. Nunc in pretium lorem. Praesent sollicitudin lacus scelerisque mauris tempor facilisis.</p>
         </div>
       </div>
 
